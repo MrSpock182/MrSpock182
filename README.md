@@ -17,9 +17,8 @@
 ### 🚀 &nbsp;About me
 
 - 💻 Software Engineer focused on **Java** and the **Spring** ecosystem
-- 📨 Experience with messaging and event-driven systems using **RabbitMQ**
+- 📨 Experience with messaging and event-driven systems using **Kafka** and **RabbitMQ** 
 - 📚 I enjoy sharing knowledge through educational projects
-- 👽 Fun fact: I believe aliens exist
 
 ### 🛠️ &nbsp;Tech Stack
 
